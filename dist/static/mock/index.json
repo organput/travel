@@ -1,0 +1,120 @@
+{
+  "ret": true,
+  "data": {
+    "swiperList": [{
+        "id": "0001",
+        "imgUrl": "//qimgs.qunarzz.com/dmf_ad_peri.OPERATION.prod/20240421_qunar_dujia_homepage_a750x192_V2.jpg"
+      },{
+        "id": "0002",
+        "imgUrl": "//qimgs.qunarzz.com/dmf_ad_peri.OPERATION.prod/20240627_qunar_dujia_homepage_a750x192_v31.jpg"
+      },{
+        "id": "0003",
+        "imgUrl": "//qimgs.qunarzz.com/dmf_ad_peri.OPERATION.prod/20240820_qunar_dujia_homepage_a750x192_v4.jpg"
+      },{
+        "id": "0004",
+        "imgUrl": "//qimgs.qunarzz.com/dmf_ad_peri.OPERATION.prod/20240821_qunar_dujia_homepage_a750x192_v5.jpg"
+      }],
+    "iconList": [{
+        "id": "0001",
+        "imgUrl": "https://imgs.qunarzz.com/vc/fd/55/94/6c7152c2a8b35a9c49bb26ea25.png_92.png",
+        "desc": "主题游"
+      }, {
+        "id": "0002",
+        "imgUrl": "https://imgs.qunarzz.com/vc/eb/d9/1b/e24bca3f1ef6ae6ebdee15e4ca.png_92.png",
+        "desc": "徒步登山"
+      }, {
+        "id": "0003",
+        "imgUrl": "https://imgs.qunarzz.com/vc/c8/01/32/8f6e29b7b6ce0a807742c2587a.png_92.png",
+        "desc": "深度体验"
+      }, {
+        "id": "0004",
+        "imgUrl": "https://imgs.qunarzz.com/vc/c3/f2/54/2e1c8f9403de1ed28895c9ffa4.png_92.png",
+        "desc": "亲子游学"
+      }, {
+        "id": "0005",
+        "imgUrl": "https://imgs.qunarzz.com/vc/ea/a3/be/56cdbe6026e59f876283b4414a.png_92.png",
+        "desc": "滑雪"
+      }, {
+        "id": "0006",
+        "imgUrl": "https://imgs.qunarzz.com/vc/c8/01/32/8f6e29b7b6ce0a807742c2587a.png_92.png",
+        "desc": "必游榜单"
+      }, {
+        "id": "0007",
+        "imgUrl": "https://imgs.qunarzz.com/vc/68/4a/91/b7f09964d1e7a6280cca361c46.png_92.png",
+        "desc": "休闲潜水"
+      }, {
+        "id": "0008",
+        "imgUrl": "https://imgs.qunarzz.com/vc/fd/55/94/6c7152c2a8b35a9c49bb26ea25.png_92.png",
+        "desc": "城市观光"
+      }, {
+        "id": "0009",
+        "imgUrl": "https://imgs.qunarzz.com/vc/eb/d9/1b/e24bca3f1ef6ae6ebdee15e4ca.png_92.png",
+        "desc": "一日游"
+      }, {
+        "id": "0010",
+        "imgUrl": "https://imgs.qunarzz.com/vc/eb/d9/1b/e24bca3f1ef6ae6ebdee15e4ca.png_92.png",
+        "desc": "一日游"
+      }, {
+        "id": "0011",
+        "imgUrl": "https://imgs.qunarzz.com/vc/eb/d9/1b/e24bca3f1ef6ae6ebdee15e4ca.png_92.png",
+        "desc": "一日游"
+      }],
+    "recommendList": [{
+        "id": "0001",
+        "imgUrl": "https://imgs.qunarzz.com/p/p70/1809/e7/4941057a6aae702.jpg_216x190_1d9c854f.jpg",
+        "title": "丽江",
+        "desc": "这是丽江"
+      }, {
+        "id": "0002",
+        "imgUrl": "https://imgs.qunarzz.com/p/p7/201302/28/01484f7b0694f0f593835fbb.jpg_216x190_4d4bfe98.jpg",
+        "title": "新疆",
+        "desc": "这是新疆"
+      }, {
+        "id": "0003",
+        "imgUrl": "https://imgs.qunarzz.com/sight/p0/1612/14/14bef79602a7780a3.water.jpg_216x190_3a0be3f6.jpg",
+        "title": "张家界",
+        "desc": "这是张家界"
+      }, {
+        "id": "0004",
+        "imgUrl": "https://imgs.qunarzz.com/p/p48/201302/28/bc44faa497db0dcf93835fbb.jpg_216x190_95fac617.jpg",
+        "title": "泰国",
+        "desc": "这是泰国"
+      }, {
+        "id": "0005",
+        "imgUrl": "https://imgs.qunarzz.com/p/p22/1809/99/d2c37b3777d68102.jpg_216x190_b9317418.jpg",
+        "title": "香港",
+        "desc": "这是香港"
+      }, {
+        "id": "0006",
+        "imgUrl": "https://imgs.qunarzz.com/p/p86/201302/28/66d3063194ff4f6593835fbb.jpg_216x190_ca45913d.jpg",
+        "title": "澳门",
+        "desc": "这是澳门"
+      }],
+    "weekendList": [{
+        "id": "0001",
+        "imgUrl": "https://imgs.qunarzz.com/p/tts8/1712/71/58522b8625c6e02.jpg_r_240x160x90_40da9433.jpg",
+        "title": "【黄山山顶住宿】黄山北海宾馆 1晚住宿含自助早餐！",
+        "desc": "黄山山顶住宿"
+      }, {
+        "id": "0002",
+        "imgUrl": "https://imgs.qunarzz.com/p/tts0/1609/7d/492d59e6d84b8902.jpg_r_240x160x90_f972ca8b.jpg",
+        "title": "限时立减！亲子/双人上海迪士尼+柏思特酒店等多酒店可选1晚，免费迪士尼接送",
+        "desc": "限时立减"
+      }, {
+        "id": "0003",
+        "imgUrl": "https://imgs.qunarzz.com/p/tts2/1603/1a/4c4cb83fbf1f79f7.jpg_r_240x160x90_287c799c.jpg",
+        "title": "双人价！苏州常熟理文铂尔曼酒店1晚+双人自助早餐+虞山/尚湖/沙家浜门票任选",
+        "desc": "双人价"
+      }, {
+        "id": "0004",
+        "imgUrl": "https://imgs.qunarzz.com/p/tts1/1805/76/c5e9907b734c0f02.jpg_r_240x160x90_fb9cbfe8.jpg",
+        "title": "杭州千岛湖度假入住千岛湖伯瑞特酒店豪华湖景房森林氧吧/林海归真二选一赠送骑行",
+        "desc": "杭州千岛湖"
+      }, {
+        "id": "0005",
+        "imgUrl": "https://imgs.qunarzz.com/p/tts4/1703/8e/6415dec9b41e4b02.jpg_r_240x160x90_df691e9d.jpg",
+        "title": "宿无锡拈花客栈【景区内】+拈花湾小镇景区，自选灵山大佛/乐游无锡旅游巴士，享客栈免费下午茶，DIY手作体验",
+        "desc": "宿无锡拈花客栈"
+      }]
+  }
+}
