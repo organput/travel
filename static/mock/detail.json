@@ -1,0 +1,134 @@
+{
+  "ret": true,
+  "data": {
+    "details":[
+      {
+        "areaName": "丽江景区",
+        "bannerImg": "https://imgs.qunarzz.com/p/p70/1809/e7/4941057a6aae702.jpg_750x500_f9e2581d.jpg",
+        "gallaryImgs": ["https://imgs.qunarzz.com/p/p70/1809/e7/4941057a6aae702.jpg_750x500_f9e2581d.jpg", "https://imgs.qunarzz.com/vs_ceph_b2c_001/b3fe35f5-aa75-4346-9b01-d237a4b578b0.jpg_480x320x90_86b99363.jpg"],
+        "categoryList": [{
+          "title": "成人票",
+          "children": [{
+            "title": "成人三馆联票",
+            "children": [{
+              "title": "成人三馆联票 - 某一连锁店销售"
+            }]
+          },{
+            "title": "成人五馆联票"
+          }]
+        }, {
+          "title": "学生票"
+        }, {
+          "title": "儿童票"
+        }, {
+          "title": "特惠票"
+        }]
+      }, {
+        "areaName": "新疆景区",
+        "bannerImg": "https://imgs.qunarzz.com/vs_ceph_b2c_001/8b34cc2a-e8e0-4a8a-9972-f6e4609f2d5d.jpg_480x320x90_2684a265.jpg",
+        "gallaryImgs": ["https://imgs.qunarzz.com/vs_ceph_b2c_001/8b34cc2a-e8e0-4a8a-9972-f6e4609f2d5d.jpg_480x320x90_2684a265.jpg", "http://img1.qunarzz.com/sight/p0/1709/76/7691528bc7d7ad3ca3.img.png_800x800_9ef05ee7.png"],
+        "categoryList": [{
+          "title": "成人票",
+          "children": [{
+            "title": "成人四馆联票",
+            "children": [{
+              "title": "成人四馆联票 - 某一连锁店销售"
+            }]
+          },{
+            "title": "成人五馆联票"
+          }]
+        }, {
+          "title": "学生票"
+        }, {
+          "title": "儿童票"
+        }, {
+          "title": "特惠票"
+        }]
+      }, {
+        "areaName": "张家界景区",
+        "bannerImg": "https://imgs.qunarzz.com/vs_ceph_b2c_001/4b4d46ea-72dc-4a5b-8167-7ae802f38fa6.jpg_480x320x90_c5736233.jpg",
+        "gallaryImgs": ["https://imgs.qunarzz.com/vs_ceph_b2c_001/4b4d46ea-72dc-4a5b-8167-7ae802f38fa6.jpg_480x320x90_c5736233.jpg", "https://imgs.qunarzz.com/vs_ceph_b2c_001/7407a8ce-6afd-4a7f-b7dd-0d9cf8269b0b.jpg_480x320x90_eb905471.jpg"],
+        "categoryList": [{
+          "title": "成人票",
+          "children": [{
+            "title": "成人六馆联票",
+            "children": [{
+              "title": "成人六馆联票 - 某一连锁店销售"
+            }]
+          },{
+            "title": "成人五馆联票"
+          }]
+        }, {
+          "title": "学生票"
+        }, {
+          "title": "儿童票"
+        }, {
+          "title": "特惠票"
+        }]
+      }, {
+        "areaName": "泰国景区",
+        "bannerImg": "https://imgs.qunarzz.com/vs_ceph_b2c_001/b45ef15b-67ee-4cbb-a109-d84baddd0ac0.jpg_480x320x90_62d212c6.jpg",
+        "gallaryImgs": ["https://imgs.qunarzz.com/vs_ceph_b2c_001/b45ef15b-67ee-4cbb-a109-d84baddd0ac0.jpg_480x320x90_62d212c6.jpg", "https://imgs.qunarzz.com/vs_ceph_b2c_001/ab752506-84e9-4eb6-9ca2-9e35fd04f6e9.jpg_480x320x90_47f02b30.jpg"],
+        "categoryList": [{
+          "title": "成人票",
+          "children": [{
+            "title": "成人一馆联票",
+            "children": [{
+              "title": "成人一馆联票 - 某一连锁店销售"
+            }]
+          },{
+            "title": "成人五馆联票"
+          }]
+        }, {
+          "title": "学生票"
+        }, {
+          "title": "儿童票"
+        }, {
+          "title": "特惠票"
+        }]
+      }, {
+        "areaName": "香港景区",
+        "bannerImg": "https://imgs.qunarzz.com/vs_ceph_b2c_001/57ac1cc7-1b7b-4c97-b1f7-5e538f1c8cb2.jpg_480x320x90_69b07983.jpg",
+        "gallaryImgs": ["https://imgs.qunarzz.com/vs_ceph_b2c_001/57ac1cc7-1b7b-4c97-b1f7-5e538f1c8cb2.jpg_480x320x90_69b07983.jpg", "https://imgs.qunarzz.com/p/p22/1809/99/d2c37b3777d68102.jpg_750x500_2c07cf47.jpg"],
+        "categoryList": [{
+          "title": "成人票",
+          "children": [{
+            "title": "成人二馆联票",
+            "children": [{
+              "title": "成人二馆联票 - 某一连锁店销售"
+            }]
+          },{
+            "title": "成人五馆联票"
+          }]
+        }, {
+          "title": "学生票"
+        }, {
+          "title": "儿童票"
+        }, {
+          "title": "特惠票"
+        }]
+      }, {
+        "areaName": "澳门景区",
+        "bannerImg": "https://imgs.qunarzz.com/vs_ceph_b2c_001/d5632ae0-0025-4d96-9cb8-d7e50441034f.jpg_480x320x90_87ef5540.jpg",
+        "gallaryImgs": ["https://imgs.qunarzz.com/vs_ceph_b2c_001/d5632ae0-0025-4d96-9cb8-d7e50441034f.jpg_480x320x90_87ef5540.jpg", "https://imgs.qunarzz.com/vs_ceph_b2c_001/41b649af-690d-4d65-ae9f-a4fe1774b2ad.jpg_480x320x90_77569da2.jpg"],
+        "categoryList": [{
+          "title": "成人票",
+          "children": [{
+            "title": "成人三馆联票",
+            "children": [{
+              "title": "成人三馆联票 - 某一连锁店销售"
+            }]
+          },{
+            "title": "成人五馆联票"
+          }]
+        }, {
+          "title": "学生票"
+        }, {
+          "title": "儿童票"
+        }, {
+          "title": "特惠票"
+        }]
+      }
+    ]
+  }
+}
